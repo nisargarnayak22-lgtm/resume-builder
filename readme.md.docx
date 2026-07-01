@@ -1,0 +1,38 @@
+# Resume Builder
+
+A simple Resume Builder application developed using Python, Tkinter, and ReportLab.
+
+## Features
+- GUI-based application
+- Enter personal and professional details
+- Generate resume in PDF format
+- Clear form functionality
+- Simple and user-friendly interface
+
+## Technologies Used
+- Python
+- Tkinter
+- ReportLab
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nisargarnayak22-lgtm/resume-builder.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install reportlab
+   ```
+
+3. Run the application:
+
+   ```bash
+   python main.py
+   ```
+
+## Output
+
+The application generates a PDF file named `generated_resume.pdf`.
