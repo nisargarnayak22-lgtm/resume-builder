@@ -22,14 +22,10 @@ A simple and user-friendly Resume Builder web application that helps users creat
 ---
 ## 📸 Screenshots
 
-### Home Screen
-
 <p align="center">
-  <img src="images/home.png" width="900">
+  <img src="image/home.png" width="900">
 </p>
 
-### Resume Generated
-
 <p align="center">
-  <img src="images/success.png" width="900">
+  <img src="image/success.png" width="900">
 </p>
